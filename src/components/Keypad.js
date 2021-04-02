@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 export default class KeyPad extends Component {
   
   keyUpCallback = () => {
-      console.log('')
+      console.log('Entering password...')
   }
   
   render(){
