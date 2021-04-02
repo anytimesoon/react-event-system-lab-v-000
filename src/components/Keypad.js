@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-export default class Bomb extends Component {
+export default class KeyPad extends Component {
   
   
   render(){
