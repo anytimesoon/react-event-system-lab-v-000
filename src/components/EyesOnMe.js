@@ -7,7 +7,7 @@ export default class EyesOnMe extends Component {
   }
   
   blurCallback = (e) => {
-    console.log()
+    console.log('Hey! Eyes on me!')
   }
   
   render(){
